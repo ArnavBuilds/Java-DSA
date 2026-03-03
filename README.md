@@ -1,4 +1,4 @@
-# Java Practice & DSA Reposiotry
+# Java Practice & DSA Repository
 
 ## About
 This repository contains my Java practice programs and implementations of Data Structure and Algorithm using Java.
